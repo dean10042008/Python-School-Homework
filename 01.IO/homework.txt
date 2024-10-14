@@ -1,0 +1,3 @@
+01. my_variable = 5 is type string, my_variable = 5 is type number.
+02. print(n) will print the value of the variable n, print("n") will print the "n".
+03. Look at echo.py.

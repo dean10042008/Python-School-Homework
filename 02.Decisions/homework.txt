@@ -1,0 +1,2 @@
+01. "=" assigns value to a variable while "==" compares if the two values are equal or not.
+02. Look at ages.py.

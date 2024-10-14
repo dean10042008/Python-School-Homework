@@ -1,0 +1,6 @@
+01. The keyword is def.
+02. Parameterless functions always return the same value. Parameterized functions' value might depend of the input values.
+03. A function returns something if somewhere in the body it has the "return" keyword. Otherwise it has no return value.
+04. Look at doubler.py.
+05. Look at calculator.py.
+06. Look at user_calculator.py.
