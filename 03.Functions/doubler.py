@@ -1,4 +1,4 @@
 def double(input):
     return input * 2
 
-print(double(1345))
+print(double(12345))

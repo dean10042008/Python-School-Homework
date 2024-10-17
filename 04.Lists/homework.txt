@@ -1,0 +1,4 @@
+01. Same data types & ability to modify them with the same code.
+02. Look at foods.py.
+03. Look at middle.py.
+04. There is a mistake in the provided code because length returns the number of items in the list. However, the last list item is at index equal to the length - 1. Therefore the code will throw an error.
